@@ -1,18 +1,35 @@
-# GreenLeaf-Shop-project-
-# GreenLeaf Shop (React + Redux)
+# GreenLeaf Shop
 
-A simple houseplants store built with React, Redux Toolkit, and React Router.
+GreenLeaf Shop is a simple e-commerce web application for houseplants, built using
+React, Redux Toolkit, and React Router.  
+The project demonstrates state management, routing, and component-based architecture.
+
+## Live Demo
+
+https://effortless-muffin-70e379.netlify.app/
 
 ## Features
+
 - Landing page
 - Product listing with categories
-- Shopping cart (add/increase/decrease/delete)
-- Cart total + items count
+- Shopping cart functionality  
+  - Add items  
+  - Increase or decrease quantity  
+  - Remove items
+- Cart total price and items count
 
-## Run locally
+## Technologies Used
+
+- React
+- Redux Toolkit
+- React Router
+- JavaScript
+- CSS
+
+## Run Locally
+
+To run the project locally, follow these steps:
+
 ```bash
 npm install
 npm start
-
-## Live Demo
-🔗 https://effortless-muffin-70e379.netlify.app/
