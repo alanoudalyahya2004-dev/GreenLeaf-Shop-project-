@@ -13,3 +13,6 @@ A simple houseplants store built with React, Redux Toolkit, and React Router.
 ```bash
 npm install
 npm start
+
+🔗 Live Demo:
+https://effortless-muffin-70e379.netlify.app/
