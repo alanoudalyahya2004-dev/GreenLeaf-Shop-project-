@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GreenLeaf-Shop-project/static/css/main.1f098d97.css",
+    "main.js": "/GreenLeaf-Shop-project/static/js/main.b31a2bfa.js",
+    "index.html": "/GreenLeaf-Shop-project/index.html",
+    "main.1f098d97.css.map": "/GreenLeaf-Shop-project/static/css/main.1f098d97.css.map",
+    "main.b31a2bfa.js.map": "/GreenLeaf-Shop-project/static/js/main.b31a2bfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f098d97.css",
+    "static/js/main.b31a2bfa.js"
+  ]
+}
